@@ -2,11 +2,11 @@
 
 ## To be completed by the candidate
 
-Name: _______
+Name: Stephen Chase
 
-Version of Xcode used: _______
+Version of Xcode used: 14.1
 
-Amount of time taken to complete test: _______
+Amount of time taken to complete test: 2 hours
 
 ### Any suggestions of things you would add, improve or do differently with more time
 
